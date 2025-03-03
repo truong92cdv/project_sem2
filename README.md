@@ -1,4 +1,4 @@
-# project_sem2
+# iLock Pro
 
 Project SEM2 - FPT jetking - CHIP DESIGN
 
