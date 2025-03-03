@@ -56,14 +56,6 @@ void loop() {
         // Print the received byte as ASCII character
         Serial.print("Receice: ");
         Serial.println(incomingByte);
-        
-        // Check if the incoming byte is 0x55
-        // if (incomingByte == CMD_OPEN) {
-        //     // Toggle the LED on pin 2 and send the status to ThingsBoard
-        //     sendDoorStatus(digitalRead(ledPin) == HIGH);
-        //     digitalWrite(ledPin, !digitalRead(ledPin));
-        // }
-
         sendDoorStatus(incomingByte);
     }
 
