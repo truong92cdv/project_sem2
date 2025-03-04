@@ -1,7 +1,6 @@
 # iLock Pro
 
-Project SEM2 - FPT jetking - CHIP DESIGN
-Team H4T:
+Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 - Võ Nhật Trường
 - Trần Ngọc Thắng
 - Nguyễn Bách Thông
