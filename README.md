@@ -33,3 +33,10 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 ## 4. Block Diagram - top module
 
 ![Block diagram](./images/block_diagram_top.png)
+
+
+## 5. ThingsBoard UI
+
+![ThingsBoard](./images/thingsboard.png)
+
+
