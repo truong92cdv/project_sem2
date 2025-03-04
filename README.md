@@ -2,16 +2,16 @@
 
 Project SEM2 - FPT jetking - CHIP DESIGN
 
-## Hardware schematic
+## 1. Hardware schematic
 
 ![Hardware schematic](./images/schematic_hardware.png)
 
 
-## Block Diagram
+## 2. Block Diagram
 
 ![project schematic](./images/project_schematic.png)
 
 
-## Block Diagram - detail
+## 3. Block Diagram - detail
 
 ![Block diagram](./images/block_diagram_top.png)
