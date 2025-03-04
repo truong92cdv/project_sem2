@@ -9,7 +9,7 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 
 ## 1. Hardware schematic
 
-![Hardware schematic](./images/schematic_hardware.png)
+![Hardware schematic](./images/schematic_hardware_png.png)
 
 
 ## 2. Block Diagram
