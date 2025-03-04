@@ -8,13 +8,13 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 - Đặng Hữu Thái Hòa
 
 ## 1. Giới thiệu
-- Hệ thống kiểm soát truy cập bằng thẻ RFID thiết kế trên board FPGA (ZuBoard 1CG).
+- Hệ thống kiểm soát truy cập bằng thẻ **RFID** thiết kế trên board FPGA (ZuBoard 1CG).
 - Tích hợp nhiều giao thức truyền nhận dữ liệu:
-  + FPGA <= (UART) => ESP8266.
-  + FPGA <= (I2C) => LCD.
-  + FPGA <= (SPI) => RC522.
-  + FPGA <= (PWM) => Servo Motor.
-  + FPGA <= (FM) => Buzzer.
+  + FPGA <= (**UART**) => ESP8266.
+  + FPGA <= (**I2C**) => LCD.
+  + FPGA <= (**SPI**) => RC522.
+  + FPGA <= (**PWM**) => Servo Motor.
+  + FPGA <= (**FM**) => Buzzer.
 - Chức năng nổi bật:
   + Kiểm soát truy cập bằng thẻ RFID.
   + Tự động Lock hệ thống khi quét thẻ sai 3 lần.
