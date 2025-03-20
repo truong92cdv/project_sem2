@@ -43,7 +43,7 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 
 ## 6. Flowchart
 
-![Flowchart](./images/Flowchart.png)
+![flowchart](./images/flowchart.png)
 
 ## 7. Demo
 
