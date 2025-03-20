@@ -41,7 +41,11 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 
 ![ThingsBoard](./images/thingsboard.png)
 
-## 6. Demo
+## 6. Flowchart
+
+![Flowchart](./images/Flowchart.png)
+
+## 7. Demo
 
 ![demo_state_idle](./images/demo_state_idle.jpg)
 
@@ -54,7 +58,7 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 ![demo_state_unlock](./images/demo_state_unlock.jpg)
 
 
-## 7. References
+## 8. References
 1. [https://github.com/truong92cdv/VERILOG_lcd_i2c](https://github.com/truong92cdv/VERILOG_lcd_i2c)
 2. [https://github.com/truong92cdv/VERILOG_rc522](https://github.com/truong92cdv/VERILOG_rc522)
 3. [https://github.com/truong92cdv/VERILOG_buzzer](https://github.com/truong92cdv/VERILOG_buzzer)
