@@ -37,6 +37,8 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 
 ## 5. ThingsBoard UI
 
+[Dashboard Thingsboard](https://demo.thingsboard.io/dashboard/6c5fe6d0-f7cf-11ef-9dbc-834dadad7dd9?publicId=76892100-edfa-11ef-9dbc-834dadad7dd9)
+
 ![ThingsBoard](./images/thingsboard.png)
 
 
