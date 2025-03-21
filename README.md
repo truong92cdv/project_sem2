@@ -33,7 +33,7 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 
 ## 4. Block Diagram
 
-![project schematic](./images/project_schematic.png)
+![block diagram](./images/block_diagram.png)
 
 
 ## 5. Block Diagram - top module
