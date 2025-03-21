@@ -20,11 +20,11 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
   + Tự động Lock hệ thống khi quét thẻ sai 3 lần.
   + Điều khiển qua Cloud ThingsBoard: lưu dấu lịch sử, Lock hoặc Unlock hệ thống.
  
-https://youtu.be/BieHZyw39V0
-
 ## 2. Demo
 
-[Demo](https://www.youtube.com/watch?v=BieHZyw39V0)
+
+
+[Demo - Link Youtube](https://www.youtube.com/watch?v=BieHZyw39V0)
 
 ## 3. Hardware schematic
 
