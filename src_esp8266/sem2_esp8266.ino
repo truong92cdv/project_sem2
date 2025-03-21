@@ -1,20 +1,20 @@
-// #include <Wifi.h>           // For ESP32
+// #include <Wifi.h>            // For ESP32
 
-#include <ESP8266WiFi.h>    // For ESP8266
+#include <ESP8266WiFi.h>        // For ESP8266
 #include <PubSubClient.h>
 #include <ArduinoJson.h>
 #include <SoftwareSerial.h>
-
-const char* ssid        = "Nhat Truong";
-const char* password    = "vonhattruong";
-const char* token       = "BJE1MAIE60EjA98iTJfv";
 
 // const char* ssid        = "FAI'S EXAM 2.4GHz";
 // const char* password    = "Fptacademy@2023";
 // const char* token       = "BJE1MAIE60EjA98iTJfv";
 
-const int ledPin = 2; // Define the LED pin (D4)
-const int buttonPin = 0; // Define the button pin (D3)
+const char* ssid        = "Nhat Truong";
+const char* password    = "Team_H4T";
+const char* token       = "BJE1MAIE60EjA98iTJfv";
+
+const int ledPin = 2;         // Define the LED pin (D4)
+const int buttonPin = 0;      // Define the button pin (D3)
 
 const char CMD_OPEN     = 0x4F;
 const char CMD_CLOSE    = 0x43;
