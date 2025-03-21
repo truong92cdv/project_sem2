@@ -22,7 +22,7 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
  
 ## 2. Demo
 
-
+![Demo](./images/demo_state_idle_1)
 
 [Demo - Link Youtube](https://www.youtube.com/watch?v=BieHZyw39V0)
 
