@@ -49,7 +49,7 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 
 ## 7. Flowchart
 
-![flowchart](./images/flowchart1.png)
+![flowchart](./images/flowchart2.png)
 
 ## 8. References
 1. [https://github.com/truong92cdv/VERILOG_lcd_i2c](https://github.com/truong92cdv/VERILOG_lcd_i2c)
