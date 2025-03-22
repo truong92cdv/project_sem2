@@ -7,6 +7,8 @@ Project SEM2 - FPT jetking - CHIP DESIGN - Team H4T:
 - Nguyễn Chí Tâm
 - Đặng Hữu Thái Hòa
 
+[Presentation on Canva](https://www.canva.com/design/DAGiRLCWRs0/Xcx-blfiineq--gKC0x6bA/edit)
+
 ## 1. Introduction
 - Hệ thống kiểm soát truy cập bằng thẻ **RFID** thiết kế trên board FPGA (ZuBoard 1CG).
 - Tích hợp nhiều giao thức truyền nhận dữ liệu:
